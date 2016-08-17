@@ -1,4 +1,4 @@
-#this program downloads, in m4a format, the audio from each of the videos in a user-specified youtube playlist, 
+#this program downloads, in m4a format, the audio from each of the videos in a youtube playlist, 
 #and saves them to the user's directory of choice.
 from bs4 import BeautifulSoup
 import requests
